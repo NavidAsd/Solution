@@ -1,0 +1,12 @@
+E:\C#\Web\Core\Solution\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\C#\Web\Core\Solution\Domain\bin\Debug\net5.0\Domain.dll
+E:\C#\Web\Core\Solution\Domain\bin\Debug\net5.0\Domain.pdb
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.dll
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\refint\Domain.dll
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\Domain.pdb
+E:\C#\Web\Core\Solution\Domain\obj\Debug\net5.0\ref\Domain.dll

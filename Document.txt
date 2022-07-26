@@ -1,0 +1,6 @@
+Asp Core Web Api .net 0.5
+DataBase Connection -> Dapper ver 2.0.123
+For UnitTesting -> Xunit ver 2.4.1
+Data Validation -> FluentValidation ver 11.1.0
+Authentication -> IdentityModel.Tokens.Jwt ver 6.21.0
+Api Documentation -> Swagger ver 5.6.3

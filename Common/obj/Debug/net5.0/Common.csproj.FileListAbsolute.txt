@@ -1,0 +1,15 @@
+E:\C#\Web\Core\Solution\Common\bin\Debug\net5.0\Common.deps.json
+E:\C#\Web\Core\Solution\Common\bin\Debug\net5.0\Common.dll
+E:\C#\Web\Core\Solution\Common\bin\Debug\net5.0\Common.pdb
+E:\C#\Web\Core\Solution\Common\bin\Debug\net5.0\Domain.dll
+E:\C#\Web\Core\Solution\Common\bin\Debug\net5.0\Domain.pdb
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.csproj.CopyComplete
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.dll
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\refint\Common.dll
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\Common.pdb
+E:\C#\Web\Core\Solution\Common\obj\Debug\net5.0\ref\Common.dll
